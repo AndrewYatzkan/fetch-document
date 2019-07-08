@@ -1,0 +1,21 @@
+{
+  "name": "fetch-dom",
+  "version": "1.0.0",
+  "description": "A simple package which fetches the DOM from any given url.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Yatzkan",
+  "keywords": [
+    "fetch",
+    "dom",
+    "node-fetch",
+    "jsdom"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
