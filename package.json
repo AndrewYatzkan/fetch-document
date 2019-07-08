@@ -1,5 +1,5 @@
 {
-  "name": "fetch-dom",
+  "name": "fetch-document",
   "version": "1.0.0",
   "description": "A simple package which fetches the DOM from any given url.",
   "main": "index.js",
@@ -11,7 +11,8 @@
     "fetch",
     "dom",
     "node-fetch",
-    "jsdom"
+    "jsdom",
+    "document"
   ],
   "license": "ISC",
   "dependencies": {
